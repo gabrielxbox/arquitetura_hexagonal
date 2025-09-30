@@ -1,0 +1,21 @@
+{
+  "id": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11",
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/exchange-details",
+    "queryParameters": {
+      "operationId": {
+        "equalTo": "response200bradesco404"
+      }
+    }
+},
+  "response": {
+    "status": 404,
+    "bodyFileName": "bradesco/body-portability-bradesco-details-404.json",
+    "headers": {
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  },
+  "uuid": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11",
+  "priority": 1
+}

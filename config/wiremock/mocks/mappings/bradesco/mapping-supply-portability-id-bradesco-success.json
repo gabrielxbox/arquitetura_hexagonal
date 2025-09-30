@@ -1,0 +1,17 @@
+{
+  "id": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11",
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/portabilities/123"
+
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "bradesco/body-portability-id-bradesco-details-200.json",
+    "headers": {
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  },
+  "uuid": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11",
+  "priority": 1
+}

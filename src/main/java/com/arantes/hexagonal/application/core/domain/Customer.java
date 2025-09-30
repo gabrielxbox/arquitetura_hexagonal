@@ -1,0 +1,25 @@
+package com.arantes.hexagonal.application.core.domain;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import java.io.Serializable;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+public class Customer implements Serializable {
+
+    private String id;
+
+    private String name;
+
+    private Address address;
+
+    private String cpf;
+
+    private boolean isValidCpf;
+}

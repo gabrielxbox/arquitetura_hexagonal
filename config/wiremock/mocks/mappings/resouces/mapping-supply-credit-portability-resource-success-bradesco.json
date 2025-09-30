@@ -1,0 +1,21 @@
+{
+  "id": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11",
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/customers/pf/85817716020/consents/99847/resources/LOAN/92792126019929279212650822221989319252576",
+    "queryParameters": {
+      "status": {
+        "equalTo": "AVAILABLE"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "resouces/body-supply-resource-success-bradesco.json",
+    "headers": {
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  },
+  "uuid": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11",
+  "priority": 1
+}

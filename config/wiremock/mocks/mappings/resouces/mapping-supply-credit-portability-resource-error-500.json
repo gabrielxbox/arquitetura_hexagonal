@@ -1,0 +1,20 @@
+{
+  "id": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11",
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/customers/pf/80478989022/consents/erro500/resources/LOAN/92792126019929279212650822221989319252576",
+    "queryParameters": {
+      "status": {
+        "equalTo": "AVAILABLE"
+      }
+    }
+  },
+  "response": {
+    "status": 500,
+    "bodyFileName": "resouces/body-resource-error-500.json",
+    "headers": {
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  },
+  "uuid": "1f889d57-c28a-49d2-bd35-58b6e9f2dc11"
+}

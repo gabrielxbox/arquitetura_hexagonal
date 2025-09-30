@@ -1,0 +1,14 @@
+{
+  "status": "AVAILABLE",
+  "creationDateTime": "2021-05-21T08:30:00Z",
+  "expirationDateTime": "2021-05-21T08:30:00Z",
+  "ipocCode": "92792126019929279212650822221989987654321",
+  "sourceSystem": "ceri",
+  "portfolio": "abc",
+  "contractNumber": "20007981025038",
+  "compeCode": 123,
+  "branchCode": 12345,
+  "number": 1234567890123,
+  "checkDigit": 1,
+  "holder": 1
+}

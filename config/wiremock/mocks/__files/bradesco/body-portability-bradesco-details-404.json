@@ -1,0 +1,12 @@
+{
+  "errors": [
+    {
+      "code": "VS_FD_404",
+      "title": "Recurso Indisponível",
+      "detail": "O recurso solicitado não existe ou não faz parte do escopo do Open Finance"
+    }
+  ],
+  "meta": {
+    "requestDateTime": "2021-05-21T08:30:00Z"
+  }
+}
